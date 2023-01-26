@@ -1,0 +1,4 @@
+newCode()
+{
+    console.log("Pippo")
+}
